@@ -1,0 +1,169 @@
+GEO_ID,AREA_NAME,TABLE_ID,LINE_NUMBER,LINE_DESCRIPTION,ESTIMATE,MARGIN_OF_ERROR
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,0.5,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,0.8,HOUSEHOLDS BY TYPE,,
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,1,Total households,"264,513","+/-4,936"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,2,Family households (families),"183,106","+/-4,987"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,3,With own children under 18 years,"74,867","+/-3,663"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,4,Married-couple family,"125,791","+/-5,584"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,5,With own children under 18 years,"44,913","+/-3,588"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,6,"Male householder, no wife present, family","13,380","+/-2,065"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,7,With own children under 18 years,"5,501","+/-1,578"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,8,"Female householder, no husband present, family","43,935","+/-3,104"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,9,With own children under 18 years,"24,453","+/-2,333"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,10,Nonfamily households,"81,407","+/-4,298"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,11,Householder living alone,"72,352","+/-4,411"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,12,65 years and over,"23,520","+/-2,042"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,13,Households with one or more people under 18 years,"86,747","+/-3,756"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,14,Households with one or more people 65 years and over,"71,045","+/-1,759"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,15,Average household size,2.55,+/-0.04
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,16,Average family size,3.12,+/-0.07
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,16.5,RELATIONSHIP,,
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,17,Population in households,"675,361","+/-4,646"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,18,Householder,"264,513","+/-4,936"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,19,Spouse,"125,723","+/-5,532"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,20,Child,"206,615","+/-6,471"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,21,Other relatives,"54,980","+/-5,960"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,22,Nonrelatives,"23,530","+/-3,432"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,23,Unmarried partner,"10,359","+/-1,749"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,23.5,MARITAL STATUS,,
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,24,Males 15 years and over,"262,696","+/-2,429"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,25,Never married,"84,363","+/-4,684"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,26,"Now married, except separated","134,654","+/-5,142"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,27,Separated,"6,152","+/-1,353"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,28,Widowed,"6,295","+/-1,178"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,29,Divorced,"31,232","+/-3,047"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,30,Females 15 years and over,"287,687","+/-2,156"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,31,Never married,"73,848","+/-3,416"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,32,"Now married, except separated","133,877","+/-6,266"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,33,Separated,"7,441","+/-1,388"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,34,Widowed,"31,008","+/-2,636"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,35,Divorced,"41,513","+/-3,448"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,35.5,FERTILITY,,
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,36,Number of women 15 to 50 years old who had a birth in the past 12 months,"12,799","+/-1,965"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,37,"Unmarried women (widowed, divorced, and never married)","6,139","+/-1,285"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,38,"Per 1,000 unmarried women",68,+/-14
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,39,"Per 1,000 women 15 to 50 years old",79,+/-12
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,40,"Per 1,000 women 15 to 19 years old",21,+/-11
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,41,"Per 1,000 women 20 to 34 years old",130,+/-23
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,42,"Per 1,000 women 35 to 50 years old",47,+/-14
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,42.5,GRANDPARENTS,,
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,43,Number of grandparents living with own grandchildren under 18 years,"18,238","+/-2,545"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,44,Responsible for grandchildren,"10,045","+/-1,922"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,44.9,Years responsible for grandchildren,,
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,45,Less than 1 year,"1,736",+/-827
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,46,1 or 2 years,"2,112",+/-877
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,47,3 or 4 years,"1,942",+/-909
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,48,5 or more years,"4,255","+/-1,142"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,49,Number of grandparents responsible for own grandchildren under 18 years,"10,045","+/-1,922"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,50,Who are female,"6,457","+/-1,282"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,51,Who are married,"6,814","+/-1,507"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,51.5,SCHOOL ENROLLMENT,,
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,52,Population 3 years and over enrolled in school,"175,816","+/-4,327"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,53,"Nursery school, preschool","10,496","+/-1,675"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,54,Kindergarten,"11,808","+/-1,858"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,55,Elementary school (grades 1-8),"76,789","+/-2,865"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,56,High school (grades 9-12),"36,900","+/-2,097"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,57,College or graduate school,"39,823","+/-3,484"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,57.5,EDUCATIONAL ATTAINMENT,,
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,58,Population 25 years and over,"459,927","+/-3,037"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,59,Less than 9th grade,"21,406","+/-2,985"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,60,"9th to 12th grade, no diploma","47,369","+/-4,273"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,61,High school graduate (includes equivalency),"152,795","+/-5,865"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,62,"Some college, no degree","104,173","+/-5,051"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,63,Associate's degree,"35,168","+/-3,632"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,64,Bachelor's degree,"64,131","+/-4,462"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,65,Graduate or professional degree,"34,885","+/-3,216"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,66,Percent high school graduate or higher,85,+/-1.2
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,67,Percent bachelor's degree or higher,21.5,+/-1.0
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,67.5,VETERAN STATUS,,
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,68,Civilian population 18 years and over,"521,000","+/-2,774"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,69,Civilian veterans,"59,792","+/-3,783"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,69.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,70,Total Civilian Noninstitutionalized Population,"678,014","+/-4,729"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,71,With a disability,"102,334","+/-5,365"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,72,Under 18 years,"166,477","+/-1,746"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,73,With a disability,"6,989","+/-1,822"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,74,18 to 64 years,"413,617","+/-4,247"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,75,With a disability,"56,865","+/-4,266"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,76,65 years and over,"97,920","+/-1,278"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,77,With a disability,"38,480","+/-2,211"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,77.5,RESIDENCE 1 YEAR AGO,,
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,78,Population 1 year and over,"680,426","+/-3,824"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,79,Same house,"580,369","+/-8,826"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,80,Different house in the U.S.,"97,319","+/-8,421"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,81,Same county,"71,362","+/-8,064"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,82,Different county,"25,957","+/-4,261"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,83,Same state,"9,929","+/-2,270"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,84,Different state,"16,028","+/-3,994"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,85,Abroad,"2,738","+/-1,368"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,85.5,PLACE OF BIRTH,,
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,86,Total population,"689,110","+/-3,276"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,87,Native,"667,618","+/-3,904"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,88,Born in United States,"663,985","+/-4,253"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,89,State of residence,"476,619","+/-10,000"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,90,Different state,"187,366","+/-10,015"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,91,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","3,633","+/-1,327"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,92,Foreign born,"21,492","+/-2,897"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,92.5,U.S. CITIZENSHIP STATUS,,
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,93,Foreign-born population,"21,492","+/-2,897"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,94,Naturalized U.S. citizen,"10,414","+/-2,357"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,95,Not a U.S. citizen,"11,078","+/-2,377"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,95.5,YEAR OF ENTRY,,
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,96,Population born outside the United States,"25,125","+/-3,085"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,97,Native,"3,633","+/-1,327"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,98,Entered 2000 or later,458,+/-342
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,99,Entered before 2000,"3,175","+/-1,180"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,100,Foreign born,"21,492","+/-2,897"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,101,Entered 2000 or later,"10,537","+/-2,100"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,102,Entered before 2000,"10,955","+/-1,869"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,102.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,103,"Foreign-born population, excluding population born at sea",N,N
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,104,Europe,N,N
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,105,Asia,N,N
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,106,Africa,N,N
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,107,Oceania,N,N
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,108,Latin America,N,N
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,109,Northern America,N,N
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,109.5,LANGUAGE SPOKEN AT HOME,,
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,110,Population 5 years and over,"645,133","+/-3,522"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,111,English only,"615,249","+/-4,063"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,112,Language other than English,"29,884","+/-3,280"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,113,"Speak English less than ""very well""","12,345","+/-2,876"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,114,Spanish,"15,388","+/-2,549"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,115,"Speak English less than ""very well""","7,165","+/-2,313"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,116,Other Indo-European languages,"6,613","+/-1,802"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,117,"Speak English less than ""very well""","1,590","+/-1,120"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,118,Asian and Pacific Islander languages,"6,448","+/-1,260"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,119,"Speak English less than ""very well""","2,687","+/-1,044"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,120,Other languages,"1,435",+/-913
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,121,"Speak English less than ""very well""",903,+/-780
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,121.5,ANCESTRY,,
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,122,Total population,"689,110","+/-3,276"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,123,American,"88,010","+/-7,060"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,124,Arab,"1,674",+/-939
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,125,Czech,325,+/-284
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,126,Danish,926,+/-858
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,127,Dutch,"7,976","+/-2,501"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,128,English,"62,101","+/-6,223"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,129,French (except Basque),"21,688","+/-3,785"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,130,French Canadian,"3,211","+/-1,696"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,131,German,"68,439","+/-7,215"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,132,Greek,"1,260",+/-821
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,133,Hungarian,"1,305",+/-851
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,134,Irish,"74,836","+/-7,474"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,135,Italian,"17,431","+/-3,316"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,136,Lithuanian,546,+/-438
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,137,Norwegian,"4,665","+/-2,161"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,138,Polish,"2,996","+/-1,327"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,139,Portuguese,"1,053",+/-674
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,140,Russian,"1,173",+/-642
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,141,Scotch-Irish,"10,209","+/-2,200"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,142,Scottish,"14,726","+/-3,666"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,143,Slovak,402,+/-361
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,144,Subsaharan African,"3,247",+/-950
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,145,Swedish,"3,635","+/-1,396"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,146,Swiss,"1,256",+/-769
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,147,Ukrainian,281,+/-240
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,148,Welsh,"2,466","+/-1,040"
+50000US0101,"Congressional District 1 (113th Congress), Alabama",DP02,149,West Indian (excluding Hispanic origin groups),658,+/-527
