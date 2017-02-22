@@ -1,28 +1,26 @@
-from bottle import route, run, template
-from bottle import route, request, response, template, HTTPResponse
-
 import uuid
 import numpy
 import matplotlib
-matplotlib.use('Agg')
-from scipy.cluster.vq import *
 import pylab
-pylab.close()
-from bottle import static_file
 import csv
 import random
+import json
+from bottle import route, run, template, static_file
+from bottle import request, response, template, HTTPResponse
 from numpy import vstack,array
 from numpy.random import rand
 from scipy.cluster.vq import kmeans,vq
-import json
+from scipy.cluster.vq import *
 
+matplotlib.use('Agg')
+pylab.close()
 
 field_names = ["GEO_ID","AREA_NAME","TABLE_ID","LINE_NUMBER","LINE_DESCRIPTION","ESTIMATE","MARGIN_OF_ERROR"]
 
 def distance(p0,p1):
     return math.sqrt((p0[0] - p1[0])**2 + (p0[1] - p1[1])**2)
 
-print len(field_names)
+#print len(field_names)
 # getting all the unique fields::;
 def get_unique_lists(x_param, y_param):
     x_list = []
@@ -60,6 +58,7 @@ def get_decimal_vector(x_list,y_list,vector):
         d_vector.append(d_vector_ele)
     return d_vector
 
+
 def get_decimal_vector2(x_param,y_param):
     d_vector = []
     csvfile = open("stats.csv","r")
@@ -78,6 +77,7 @@ def get_decimal_vector2(x_param,y_param):
         d_vector.append(vector_element)
     return d_vector
 
+
 def clean(element):
     element = element.replace(",","")
     element = element.strip("+/-")
@@ -85,7 +85,7 @@ def clean(element):
     element = element.replace("N","")
     element = element.replace("X","")
     return element
-    
+
 
 def vector_to_image(d_vector):
     #data = array(d_vector)
@@ -105,6 +105,7 @@ def vector_to_image(d_vector):
     filename = name+".png"
     pylab.savefig("./static/"+filename)
     return filename
+
 
 def vector_to_image2(d_vector,num_of_clusters):
     name = str(uuid.uuid4())
@@ -130,6 +131,7 @@ def vector_to_image2(d_vector,num_of_clusters):
 def server_static(filename):
     return static_file(filename, root="static")
 
+
 @route('/')
 def index():
     #x_list,y_list,vector = get_unique_lists('Product Type','City')
@@ -137,6 +139,7 @@ def index():
     #name = vector_to_image(d_vector)
     #return template('ui', name=name)
     return template('ui')
+
 
 @route('/clusterimage',  method='POST')
 def clusterimage():
@@ -147,8 +150,8 @@ def clusterimage():
         x_param = posted_dict["x_param"][0]
         y_param = posted_dict["y_param"][0]
         nc = int(posted_dict["noofclusters"][0])
-        print x_param
-        print y_param
+        print(x_param)
+        print(y_param)
         #x_list,y_list,vector = get_unique_lists(x_param,y_param)
         #d_vector = get_decimal_vector(x_list,y_list,vector)
         d_vector = get_decimal_vector2(x_param,y_param)
@@ -160,6 +163,7 @@ def clusterimage():
         return resp
     else:
         return 'This is a normal request'
+
 
 def get_decimal_vector3(x_param,y_param):
     d_vector = []
@@ -178,11 +182,10 @@ def get_decimal_vector3(x_param,y_param):
         vector_element['value']= y_cor
         d_vector.append(vector_element)
     return d_vector
-    return
+
 
 @route('/scatterplot',  method='POST')
 def scatterplot():
-    #pdb.set_trace()
     # function creates output of the queries based on the posted parameters
     if request.headers.get('X-Requested-With') == 'XMLHttpRequest':
         posted_dict =  request.forms.dict
@@ -194,6 +197,8 @@ def scatterplot():
         return resp
     else:
         return 'This is a normal request'
+
+
 @route('/bargraph', method='POST')
 def bargraph():
     if request.headers.get('X-Requested-With') == 'XMLHttpRequest':
