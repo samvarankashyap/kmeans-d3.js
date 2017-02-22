@@ -78,13 +78,10 @@ def get_decimal_vector2(x_param,y_param):
     return d_vector
 
 
-def clean(element):
-    element = element.replace(",","")
-    element = element.strip("+/-")
-    element = element.strip()
-    element = element.replace("N","")
-    element = element.replace("X","")
-    return element
+def clean(e):
+    e = e.replace(",","").strip("+/-").strip()
+    e = e.replace("N","").replace("X","")
+    return e
 
 
 def vector_to_image(d_vector):
