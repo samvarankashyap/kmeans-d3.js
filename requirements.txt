@@ -1,0 +1,8 @@
+numpy
+matplotlib
+png
+freetype
+matplotlib
+scipy
+sklearn
+scikit-learn
